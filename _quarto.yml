@@ -16,16 +16,6 @@ format:
     theme: cosmo
     css: styles.css
     toc: true
-  revealjs:
-    theme: [default, custom.scss]
-    #self-contained: True
-    chalkboard: 
-      theme: whiteboard
-    logo: "logo2.png"
-    width: 1200
-    margin: 0.1
-    #footer: "Footer text"
-
 
 
 

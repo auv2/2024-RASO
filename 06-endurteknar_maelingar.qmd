@@ -2,7 +2,15 @@
 title: Endurteknar mælingar
 author: Slembiþáttalíkön (*mixed effect model*)
 institute: Auðun Valborgarson
-format: revealjs
+format: 
+  revealjs:
+    theme: [default, custom.scss]
+    #self-contained: True
+    chalkboard: 
+      theme: whiteboard
+    logo: "logo2.png"
+    width: 1200
+    margin: 0.1
 #toc: true
 #toc-title: "Efni dagsins"
 slide-number: c/t

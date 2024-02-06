@@ -20,6 +20,8 @@ Við ætlum að prófa tvö líkön:
 
 *Gögnin má sækja hér:*
 
+<https://github.com/auv2/2024-RASO/blob/main/data/framfarir_i_lestri.csv>
+
 [**Verkefnalýsing**]{.underline}
 
 1)      Notið slembiþáttalíkan (*mixed models*) til þess að prófa eftirfarandi líkön.
