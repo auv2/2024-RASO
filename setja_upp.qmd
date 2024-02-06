@@ -1,0 +1,19 @@
+---
+title: "Setja upp gamlj"
+---
+
+Hvernig á að setja upp auka pakka í jamovi
+
+Byrja á því að sækja viðbótar pakkann til þess að vinna með línuleg líkön. Fer í *Moduls* sem er í hægra horninu:
+
+![](images/clipboard-3316335306.png){width="138"}
+
+![](images/clipboard-2051692175.png)
+
+Vel *jamovi library* fer svo í *Avaolable* og finn pakkann **gamlj** og vel *install*
+
+![](images/clipboard-2308669800.png)
+
+Þá ætti viðbótar pakkinn að birtast í valstikunni.
+
+![](images/clipboard-2988719443.png)
