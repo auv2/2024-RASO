@@ -1,0 +1,31 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "RASO"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Efni
+      - setja_upp.qmd
+      - verkefni.qmd
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true
+  revealjs:
+    theme: [default, custom.scss]
+    #self-contained: True
+    chalkboard: 
+      theme: whiteboard
+    logo: "logo2.png"
+    width: 1200
+    margin: 0.1
+    #footer: "Footer text"
+
+
+
+

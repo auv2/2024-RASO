@@ -1,0 +1,38 @@
+/*-- scss:defaults --*/
+
+$theme-black: #222;
+$theme-red: #D61821;
+$theme-white: #F5F5F5;
+
+
+$theme-darkblue: #01364C;
+$theme-blue: #99D9DD;
+
+$theme-yellow: #F4BA02;
+
+
+$body-bg: $theme-white;
+$body-color: $theme-black;
+$link-color: $theme-red;
+$presentation-heading-color: lighten($theme-red, 25%);
+$presentation-h1-font-size: 1.25em;
+$presentation-h2-font-size: 1em;
+
+@import url('https://fonts.googleapis.com/css2?family=Fira+Code:wght@300;400&display=swap');
+
+$font-family-sans-serif: 'Fira Code', monospace;
+$presentation-heading-font: 'Fira Code', monospace;
+
+/*-- scss:rules --*/
+
+.red {
+  color: $theme-red;
+  font-weight: bold;
+}
+
+.reveal .slide-logo {
+  height: 100px !important;
+  width: 100px!important;
+  max-width: unset !important;
+  max-height: unset !important;
+}
